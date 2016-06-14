@@ -1,1 +1,1 @@
-# TestStatistical-Inference
+# Statistical-Inference
